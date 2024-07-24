@@ -1,0 +1,3 @@
+install the below dependencies before running the executable file
+pynput
+pywin32
